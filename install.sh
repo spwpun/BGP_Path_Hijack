@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt-get install -y quagga curl screen
-sudo pip install termcolor
+sudo apt-get install -y curl screen
+sudo pip3 install termcolor
